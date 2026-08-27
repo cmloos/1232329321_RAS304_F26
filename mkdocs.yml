@@ -1,4 +1,4 @@
-site_name: RAS 304 Data Sheet Template
+site_name: Connor's RAS304 Datasheet
 site_url: https://ras-embedded-systems.github.io/RAS304DataSheetTemplate/
 repo_url: https://github.com/ras-embedded-systems/RAS304DataSheetTemplate
 edit_uri: edit/main/docs/
@@ -6,8 +6,8 @@ theme:
   name: material
   custom_dir: custom_theme/
   palette:
-    primary: blue
-    accent: indigo
+    primary: purple
+    accent: gold
   font:
     text: Roboto
   logo: static/logo304.svg
